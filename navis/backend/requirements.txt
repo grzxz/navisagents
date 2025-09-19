@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+boto3
+google-genai
+transformers
+torch
+pydantic
+python-multipart
+huggingface-hub
+accelerate
